@@ -7,3 +7,8 @@
 ^LICENSE\.md$
 ^mni\.Rproj$
 ^\.Rproj\.user$
+^DESCRIPTION\.bak$
+^\.github$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
